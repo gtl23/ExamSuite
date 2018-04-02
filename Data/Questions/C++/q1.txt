@@ -1,0 +1,6 @@
+1. Which of the following type of class allows only one object of it to be created?
+Virtual class
+Abstract class
+Singleton class
+Friend class
+C

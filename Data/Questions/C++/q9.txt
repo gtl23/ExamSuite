@@ -1,0 +1,6 @@
+9. Which of the following correctly declares an array?
+int array[10];
+int array;
+array{10};
+array array[10];
+A

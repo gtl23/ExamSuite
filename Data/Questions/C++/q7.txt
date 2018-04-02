@@ -1,0 +1,6 @@
+7. Which of the following is correct about function overloading?
+The types of arguments are different.
+The order of argument is different.
+The number of argument is same.
+Both A and B.
+D

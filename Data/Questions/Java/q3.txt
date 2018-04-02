@@ -1,0 +1,6 @@
+3. Which of these handles the exception when no catch is used?
+Default handler
+finally
+throw handler
+Java run time system
+A

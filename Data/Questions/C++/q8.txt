@@ -1,0 +1,6 @@
+8. What is the syntax of inheritance of class?
+class name
+class name : access specifer
+class name : access specifer class name
+None of the mentioned
+C

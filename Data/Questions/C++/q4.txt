@@ -1,0 +1,6 @@
+4. Why reference is not same as a pointer?
+A reference can never be null.
+A reference once established cannot be changed.
+Reference doesn't need an explicit dereferencing mechanism.
+All of the above.
+D

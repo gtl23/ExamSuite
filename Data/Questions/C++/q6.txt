@@ -1,0 +1,6 @@
+6. Which of the following statement is correct?
+A constructor is called at the time of declaration of an object.
+A constructor is called at the time of use of an object.
+A constructor is called at the time of declaration of a class.
+A constructor is called at the time of use of a class.
+A

@@ -1,0 +1,6 @@
+2. Which of the following is not a type of constructor?
+Copy constructor
+Friend constructor
+Default constructor
+Parameterized constructor
+B

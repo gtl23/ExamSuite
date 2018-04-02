@@ -1,0 +1,6 @@
+5. cout is a/an __________ .
+operator
+function
+object
+Macro
+C

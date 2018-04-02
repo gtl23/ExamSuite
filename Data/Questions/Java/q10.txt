@@ -1,0 +1,6 @@
+10. Which of the following package stores all the simple data types in java?
+lang
+java
+util
+java.packages
+A

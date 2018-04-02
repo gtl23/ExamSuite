@@ -1,0 +1,6 @@
+2. Which of these keywords is used to generate an exception explicitly?
+try
+finally
+throw
+catch
+C

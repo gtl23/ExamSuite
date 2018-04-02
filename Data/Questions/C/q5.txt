@@ -1,0 +1,6 @@
+5. Which of the following is a ternary operator ?
+?:
+&&
+||
+%
+A

@@ -1,0 +1,6 @@
+8. Which of these is a super class of wrappers Double & Integer?
+Long
+Digits
+Float
+Number
+D

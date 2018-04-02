@@ -1,0 +1,6 @@
+4. Which of these can be used to fully abstract a class from its implementation?
+Objects
+Packages
+Interfaces
+None of the Mentioned.
+C

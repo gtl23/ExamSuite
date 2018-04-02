@@ -1,0 +1,6 @@
+3. What would be the equivalent pointer expression for referring the array element a[i][j][k][l]
+((((a+i)+j)+k)+l)
+*(*(*(*(a+i)+j)+k)+l)
+(((a+i)+j)+k+l)
+((a+i)+j+k+l)
+B

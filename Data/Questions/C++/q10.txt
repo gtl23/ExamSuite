@@ -1,0 +1,6 @@
+10. Which of the following accesses the seventh element stored in array?
+array[6];
+array[7];
+array(7);
+array;
+A

@@ -1,0 +1,6 @@
+10. Which of the following special symbol allowed in a variable name?
+* (asterisk)
+| (pipeline)
+- (hyphen)
+_ (underscore)
+D

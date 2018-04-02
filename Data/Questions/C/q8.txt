@@ -1,0 +1,6 @@
+8. Specify the 2 library functions to dynamically allocate memory?
+malloc() and memalloc()
+alloc() and memalloc()
+malloc() and calloc()
+memalloc() and faralloc()
+C

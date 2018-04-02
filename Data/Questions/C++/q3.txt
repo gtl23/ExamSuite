@@ -1,0 +1,6 @@
+3. How many instances of an abstract class can be created?
+1
+5
+13
+0
+D

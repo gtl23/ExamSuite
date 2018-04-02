@@ -1,0 +1,6 @@
+6. In C, if you pass an array as an argument to a function, what actually gets passed?
+Value of elements in array
+First element of the array
+Base address of the array
+Address of the last element of array
+C

@@ -1,0 +1,6 @@
+7. What is the range of data type byte in Java?
+-128 to 127
+-32768 to 32767
+-2147483648 to 2147483647
+None of the mentioned
+A
